@@ -1,4 +1,4 @@
-# Görev Özeti
+# Görev Özeti  ( For Döngüsü Kullanıldı)
 
 ### 1. Motivasyon Mesajı
 - Konsol ekranına **10 kere** şu mesaj yazdırılır:  
